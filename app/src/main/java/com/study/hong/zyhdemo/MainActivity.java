@@ -68,10 +68,10 @@ public class MainActivity extends SupportActivity implements View.OnClickListene
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.bt_kuangjia:
-                loadRootFragment(R.id.fl_content, mBaseFragment.get(0));
+                loadRootFragment(R.id.fl_content, mBaseFragment.get(1));
                 break;
             case R.id.bt_zidingyi:
-                loadRootFragment(R.id.fl_content, mBaseFragment.get(1));
+                loadRootFragment(R.id.fl_content, mBaseFragment.get(0));
                 break;
             case R.id.bt_texiao:
                 loadRootFragment(R.id.fl_content, mBaseFragment.get(2));

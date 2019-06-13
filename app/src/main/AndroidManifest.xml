@@ -42,6 +42,10 @@
         <activity android:name=".frame.pulltorefresh.PullToRefreshViewPagerActivity"></activity>
         <activity android:name=".frame.pulltorefresh.PullToRefreshWebView2Activity"></activity>
         <activity android:name=".frame.pulltorefresh.PullToRefreshWebViewActivity"></activity>
+        <activity android:name=".frame.materialdesign.MatrialDesign"/>
+        <activity android:name=".frame.materialdesign.PersonActivity"
+            android:theme="@style/ActivityTheme"/>
+        <activity android:name=".frame.materialdesign.OtherActivity"/>
 
     </application>
 

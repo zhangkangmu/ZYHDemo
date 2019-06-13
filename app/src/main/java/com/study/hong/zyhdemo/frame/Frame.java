@@ -14,19 +14,19 @@ import com.study.hong.zyhdemo.R;
 import com.study.hong.zyhdemo.base.BaseFragment;
 import com.study.hong.zyhdemo.frame.EventBus.EventBusMain;
 import com.study.hong.zyhdemo.frame.glide.GlideMain;
+import com.study.hong.zyhdemo.frame.materialdesign.MatrialDesign;
 import com.study.hong.zyhdemo.frame.okhttp.fragment.OKHttpFragment;
 import com.study.hong.zyhdemo.frame.pulltorefresh.LauncherActivity;
 import com.study.hong.zyhdemo.frame.recyclerview.RecyclerViewMian;
-
-import me.yokeyword.fragmentation.SupportFragment;
 
 
 /**
  * Created by 洪 on 2019/4/30.
  * 主页面
+ * 框架
  */
 
-public class Frame extends BaseFragment implements View.OnClickListener{
+public class Frame extends BaseFragment implements View.OnClickListener {
 
     private TextView okhttp;
     private TextView xutils3;
@@ -38,13 +38,15 @@ public class Frame extends BaseFragment implements View.OnClickListener{
     private TextView evevt_bus;
     private TextView recyclerview;
     private TextView pullrefresh;
+    private TextView mMaterialDesign;
 
     public static Frame newInstance() {
         Bundle args = new Bundle();
         Frame fragment = new Frame();
         fragment.setArguments(args);
-        Log.d("zyh","Frame newInstance");
+        Log.d("zyh", "Frame newInstance");
         return fragment;
+
     }
 
 
@@ -62,7 +64,8 @@ public class Frame extends BaseFragment implements View.OnClickListener{
         evevt_bus = view.findViewById(R.id.evevt_bus);
         recyclerview = view.findViewById(R.id.recyclerview);
         pullrefresh = view.findViewById(R.id.pullrefresh);
-        Log.d("zyh","Frame onCreateView");
+        mMaterialDesign = view.findViewById(R.id.material_design);
+        Log.d("zyh", "Frame onCreateView");
         return view;
     }
 
@@ -83,6 +86,7 @@ public class Frame extends BaseFragment implements View.OnClickListener{
         evevt_bus.setOnClickListener(this);
         recyclerview.setOnClickListener(this);
         pullrefresh.setOnClickListener(this);
+        mMaterialDesign.setOnClickListener(this);
     }
 
     @Override
@@ -97,23 +101,25 @@ public class Frame extends BaseFragment implements View.OnClickListener{
         if (i == R.id.okhttp) {
             start(OKHttpFragment.newInstance());
         } else if (i == R.id.xutils3) {
-            Toast.makeText(_mActivity,"xutils3",Toast.LENGTH_SHORT).show();
-        }else if (i==R.id.retrofit2){
-            Toast.makeText(_mActivity,"retrofit2",Toast.LENGTH_SHORT).show();
-        }else if (i==R.id.Fresco){
-            Toast.makeText(_mActivity,"Fresco",Toast.LENGTH_SHORT).show();
-        }else if (i==R.id.greendao){
-            Toast.makeText(_mActivity,"greendao",Toast.LENGTH_SHORT).show();
-        }else if (i==R.id.rxJava){
-            Toast.makeText(_mActivity,"rxJava",Toast.LENGTH_SHORT).show();
-        }else if (i==R.id.evevt_bus){
+            Toast.makeText(_mActivity, "xutils3", Toast.LENGTH_SHORT).show();
+        } else if (i == R.id.retrofit2) {
+            Toast.makeText(_mActivity, "retrofit2", Toast.LENGTH_SHORT).show();
+        } else if (i == R.id.Fresco) {
+            Toast.makeText(_mActivity, "Fresco", Toast.LENGTH_SHORT).show();
+        } else if (i == R.id.greendao) {
+            Toast.makeText(_mActivity, "greendao", Toast.LENGTH_SHORT).show();
+        } else if (i == R.id.rxJava) {
+            Toast.makeText(_mActivity, "rxJava", Toast.LENGTH_SHORT).show();
+        } else if (i == R.id.evevt_bus) {
             startActivity(new Intent(getActivity(), EventBusMain.class));
         } else if (i == R.id.recyclerview) {
             startActivity(new Intent(getActivity(), RecyclerViewMian.class));
         } else if (i == R.id.glide) {
             startActivity(new Intent(getActivity(), GlideMain.class));
-        }else if (i == R.id.pullrefresh) {
+        } else if (i == R.id.pullrefresh) {
             startActivity(new Intent(getActivity(), LauncherActivity.class));
+        }else if (i == R.id.material_design) {
+            startActivity(new Intent(getActivity(), MatrialDesign.class));
         }
     }
 

@@ -85,11 +85,19 @@
     android:textColor="@android:color/black"
     android:textSize="16sp" />
     <TextView
-        android:id="@+id/pullrefresh"
+    android:id="@+id/pullrefresh"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="15dp"
+    android:text="下拉刷新，下拉加载更多"
+    android:textColor="@android:color/black"
+    android:textSize="16sp" />
+    <TextView
+        android:id="@+id/material_design"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
-        android:text="下拉刷新，下拉加载更多"
+        android:text="MaterialDesign折叠效果等"
         android:textColor="@android:color/black"
         android:textSize="16sp" />
 </LinearLayout>

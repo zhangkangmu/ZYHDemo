@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:fitsSystemWindows="true">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/collapsing_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:contentScrim="?attr/colorPrimary"
+            app:layout_scrollFlags="exitUntilCollapsed|scroll"
+            android:fitsSystemWindows="true">
+
+            <ImageView
+                android:id="@+id/person_image_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ic_haizeiwang"
+                app:layout_collapseMode="parallax"
+                android:fitsSystemWindows="true"/>
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:layout_collapseMode="pin">
+
+            </android.support.v7.widget.Toolbar>
+        </android.support.design.widget.CollapsingToolbarLayout>
+
+    </android.support.design.widget.AppBarLayout>
+    <!--CoordinatorLayout具备响应滚动事件，因此需要增加一个有layout_behavior属性的发出事件-->
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:text="zyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyhzyh"
+                    android:textSize="50dp" />
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:backgroundTint="@color/colorPrimary"
+        android:elevation="0dp"
+        android:src="@drawable/img_menu"
+        android:translationX="0dp"
+        android:translationY="0dp"
+        android:translationZ="0dp"
+        app:borderWidth="0dp"
+        app:layout_anchor="@id/appbar"
+        app:layout_anchorGravity="bottom|end"
+        app:rippleColor="@color/colorPrimary" />
+</android.support.design.widget.CoordinatorLayout>
