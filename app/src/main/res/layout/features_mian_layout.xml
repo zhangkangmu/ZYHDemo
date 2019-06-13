@@ -28,4 +28,13 @@
         android:textSize="16sp"
         android:layout_marginTop="15dp"
         android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/tv_notification"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="各种Notification"
+        android:textSize="16sp"
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/black"/>
 </LinearLayout>

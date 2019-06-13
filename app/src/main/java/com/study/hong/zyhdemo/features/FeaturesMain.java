@@ -13,24 +13,28 @@ import com.study.hong.zyhdemo.R;
 import com.study.hong.zyhdemo.base.BaseFragment;
 import com.study.hong.zyhdemo.features.advertisement.Advertisement;
 import com.study.hong.zyhdemo.features.cotrolswitch.ControlSwitch;
+import com.study.hong.zyhdemo.features.notification.MyNotification;
 import com.study.hong.zyhdemo.features.xialaxuanzekuang.DropDown;
 
 
 /**
  * Created by 洪 on 2019/6/4.
+ * 一些常见的类或者功能的使用
  */
 
-public class FeaturesMain extends BaseFragment implements View.OnClickListener{
+public class FeaturesMain extends BaseFragment implements View.OnClickListener {
 
     private TextView tv_advertisement;
-    private TextView tv_switch,tv_xialaxaunze;
+    private TextView tv_switch, tv_xialaxaunze;
+    private TextView mTvNotification;
 
     public static FeaturesMain newInstance() {
         Bundle args = new Bundle();
         FeaturesMain fragment = new FeaturesMain();
         fragment.setArguments(args);
-        Log.d("zyh","FeaturesMain newInstance");
+        Log.d("zyh", "FeaturesMain newInstance");
         return fragment;
+
     }
 
     @Nullable
@@ -40,8 +44,9 @@ public class FeaturesMain extends BaseFragment implements View.OnClickListener{
         tv_advertisement = view.findViewById(R.id.tv_advertisement);
         tv_switch = view.findViewById(R.id.tv_switch);
         tv_xialaxaunze = view.findViewById(R.id.tv_xialaxaunze);
+        mTvNotification = view.findViewById(R.id.tv_notification);
         initListen();
-        Log.d("zyh","FeaturesMain onCreateView");
+        Log.d("zyh", "FeaturesMain onCreateView");
         return view;
     }
 
@@ -49,6 +54,7 @@ public class FeaturesMain extends BaseFragment implements View.OnClickListener{
         tv_advertisement.setOnClickListener(this);
         tv_switch.setOnClickListener(this);
         tv_xialaxaunze.setOnClickListener(this);
+        mTvNotification.setOnClickListener(this);
     }
 
     @Override
@@ -61,10 +67,12 @@ public class FeaturesMain extends BaseFragment implements View.OnClickListener{
         int i = v.getId();
         if (i == R.id.tv_advertisement) {
             start(Advertisement.newInstance());
-        }else if (i == R.id.tv_switch) {
+        } else if (i == R.id.tv_switch) {
             start(ControlSwitch.newInstance());
-        }else if (i == R.id.tv_xialaxaunze) {
+        } else if (i == R.id.tv_xialaxaunze) {
             startActivity(new Intent(getActivity(), DropDown.class));
+        }else if (i == R.id.tv_notification) {
+            startActivity(new Intent(getActivity(), MyNotification.class));
         }
     }
 }

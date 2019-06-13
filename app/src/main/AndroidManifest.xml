@@ -29,23 +29,24 @@
             android:theme="@style/listDividerTheme" />
         <activity android:name=".frame.glide.GlideRecyclerviewActivity" />
         <activity android:name=".frame.glide.GlideBaseActivity" />
-        <activity android:name=".frame.glide.GlideMain" />GlideTranformationsActivity
-        <activity android:name=".frame.glide.GlideTranformationsActivity"></activity>
-        <activity android:name=".frame.pulltorefresh.LauncherActivity"></activity>
-        <activity android:name=".frame.pulltorefresh.PullToRefreshExpandableListActivity"></activity>
-        <activity android:name=".frame.pulltorefresh.PullToRefreshGridActivity"></activity>
-        <activity android:name=".frame.pulltorefresh.PullToRefreshHorizontalScrollViewActivity"></activity>
-        <activity android:name=".frame.pulltorefresh.PullToRefreshListActivity"></activity>
-        <activity android:name=".frame.pulltorefresh.PullToRefreshListFragmentActivity"></activity>
-        <activity android:name=".frame.pulltorefresh.PullToRefreshListInViewPagerActivity"></activity>
-        <activity android:name=".frame.pulltorefresh.PullToRefreshScrollViewActivity"></activity>
-        <activity android:name=".frame.pulltorefresh.PullToRefreshViewPagerActivity"></activity>
-        <activity android:name=".frame.pulltorefresh.PullToRefreshWebView2Activity"></activity>
-        <activity android:name=".frame.pulltorefresh.PullToRefreshWebViewActivity"></activity>
+        <activity android:name=".frame.glide.GlideMain" />
+        <activity android:name=".frame.glide.GlideTranformationsActivity"/>
+        <activity android:name=".frame.pulltorefresh.LauncherActivity"/>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshExpandableListActivity"/>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshGridActivity"/>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshHorizontalScrollViewActivity"/>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshListActivity"/>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshListFragmentActivity"/>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshListInViewPagerActivity"/>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshScrollViewActivity"/>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshViewPagerActivity"/>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshWebView2Activity"/>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshWebViewActivity"/>
         <activity android:name=".frame.materialdesign.MatrialDesign"/>
         <activity android:name=".frame.materialdesign.PersonActivity"
             android:theme="@style/ActivityTheme"/>
         <activity android:name=".frame.materialdesign.OtherActivity"/>
+        <activity android:name=".features.notification.MyNotification"/>
 
     </application>
 
