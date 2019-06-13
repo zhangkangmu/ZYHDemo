@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.study.hong.zyhdemo">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:name=".base.BaseApplication"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".base.BaseActivity"/>
+        <activity android:name=".customize.youkutexiao.YouKu"/>
+        <activity android:name=".features.xialaxuanzekuang.DropDown"/>
+
+        <activity android:name=".frame.EventBus.EventBusMain" />
+        <activity android:name=".frame.EventBus.EventBusSendActivity" />
+        <activity
+            android:name=".frame.recyclerview.RecyclerViewMian"
+            android:theme="@style/listDividerTheme" />
+        <activity android:name=".frame.glide.GlideRecyclerviewActivity" />
+        <activity android:name=".frame.glide.GlideBaseActivity" />
+        <activity android:name=".frame.glide.GlideMain" />GlideTranformationsActivity
+        <activity android:name=".frame.glide.GlideTranformationsActivity"></activity>
+        <activity android:name=".frame.pulltorefresh.LauncherActivity"></activity>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshExpandableListActivity"></activity>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshGridActivity"></activity>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshHorizontalScrollViewActivity"></activity>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshListActivity"></activity>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshListFragmentActivity"></activity>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshListInViewPagerActivity"></activity>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshScrollViewActivity"></activity>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshViewPagerActivity"></activity>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshWebView2Activity"></activity>
+        <activity android:name=".frame.pulltorefresh.PullToRefreshWebViewActivity"></activity>
+
+    </application>
+
+</manifest>

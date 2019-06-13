@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:switchview="http://schemas.android.com/apk/res-auto/com.study.hong.zyhdemo.features.cotrolswitch.SwitchView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center">
+
+<com.study.hong.zyhdemo.features.cotrolswitch.SwitchView
+    android:id="@+id/switch_view"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    switchview:switch_background="R.drawable.switch_background"
+    switchview:slide_button="R.drawable.slide_button"
+    switchview:switch_state="false" />
+</LinearLayout>

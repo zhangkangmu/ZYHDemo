@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.study.hong.zyhdemo.customize.cehua.ui.SlideDragLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/slideMenu"
+    android:background="@drawable/cehua_bg">
+
+    <!-- 菜单的布局 -->
+    <include layout="@layout/customize_cehuamianban_menu"/>
+    <!-- 主界面的布局 -->
+    <include layout="@layout/customize_cehuamianban_mian"/>
+</com.study.hong.zyhdemo.customize.cehua.ui.SlideDragLayout>

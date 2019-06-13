@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginLeft="20dp">
+<TextView
+    android:id="@+id/tv_qq_cehuamianban"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="QQ左侧特效"
+    android:textSize="16sp"
+    android:layout_marginTop="15dp"
+    android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/tv_quick_index"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="快速检测"
+        android:textSize="16sp"
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/tv_parallax"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="头部视差"
+        android:textSize="16sp"
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/tv_swipelayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="右滑删除"
+        android:textSize="16sp"
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/tv_gooview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="粘性控件"
+        android:textSize="16sp"
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/stellar_map"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="星球地图"
+        android:textSize="16sp"
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/black"/>
+    <TextView
+        android:id="@+id/string_sort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="字符串顺序摆放"
+        android:textSize="16sp"
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/black"/>
+    <TextView
+        android:id="@+id/youku_texiao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="优酷特效"
+        android:textSize="16sp"
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/black"/>
+</LinearLayout>

@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml:3:5-61
+		INJECTED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml
+		INJECTED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml
+		INJECTED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml
+		INJECTED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml
+application
+ADDED from G:\Code\android\ZYHDemo\pullToRefreshListFragment\src\main\AndroidManifest.xml:7:5-20

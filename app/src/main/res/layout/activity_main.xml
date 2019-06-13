@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.study.hong.zyhdemo.MainActivity">
+
+    <FrameLayout
+        android:id="@+id/fl_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/radioGroup"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_weight="1" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fl_content">
+
+        <RadioButton
+            android:id="@+id/bt_kuangjia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="框架层"
+            android:drawableTop="@drawable/buttom_kuanjia_selector"
+            style="@style/buttom_style"/>
+
+        <RadioButton
+            android:id="@+id/bt_zidingyi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="自定义"
+            android:drawableTop="@drawable/buttom_customize_selector"
+            style="@style/buttom_style"/>
+
+        <RadioButton
+            android:id="@+id/bt_texiao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="特效等"
+            android:drawableTop="@drawable/ic_tab_netvideo"
+            style="@style/buttom_style"/>
+
+        <RadioButton
+            android:id="@+id/bt_yangshi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="样式等"
+            android:drawableTop="@drawable/ic_tab_video"
+            style="@style/buttom_style"/>
+
+    </RadioGroup>
+
+</android.support.constraint.ConstraintLayout>

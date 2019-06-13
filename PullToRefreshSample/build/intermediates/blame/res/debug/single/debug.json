@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_wallpaper.jpg.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\drawable-nodpi\\wallpaper.jpg"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_grid.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_grid.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_indicator_arrow.png.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_webview.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_webview.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_bg_bottom.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_bg_top.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_to_bottom.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_indicator_arrow.png.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_webview2.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_webview2.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_webview.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_webview.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_top.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_top.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_default_ptr_rotate.png.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_list_fragment.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_list_fragment.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_android.png.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\drawable-xhdpi\\android.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_wallpaper.jpg.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\drawable-nodpi\\wallpaper.jpg"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header_vertical.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\raw_reset_sound.mp3.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\raw\\reset_sound.mp3"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_need_this_for_maven.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\pullToRefreshListFragment\\build\\intermediates\\bundles\\debug\\res\\layout\\need_this_for_maven.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_indicator_arrow.png.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_viewpager.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_viewpager.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_default_ptr_flip.png.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_default_ptr_flip.png.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_bg_bottom.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_to_top.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_grid.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_grid.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\raw_refreshing_sound.mp3.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\raw\\refreshing_sound.mp3"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_bottom.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header_horizontal.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_layout_listview_in_viewpager.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\layout\\layout_listview_in_viewpager.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_default_ptr_flip.png.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_default_ptr_flip.png.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_viewpager.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_viewpager.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_android.png.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\drawable-hdpi\\android.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_scrollview.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_scrollview.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_indicator_arrow.png.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_android.png.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\drawable-hdpi\\android.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_default_ptr_rotate.png.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_indicator_arrow.png.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_list.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_list.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_default_ptr_rotate.png.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_to_bottom.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_to_top.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_android.png.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\drawable-xhdpi\\android.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\raw_reset_sound.mp3.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\raw\\reset_sound.mp3"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_layout_listview_in_viewpager.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\layout\\layout_listview_in_viewpager.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_list_fragment.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_list_fragment.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_expandable_list.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_expandable_list.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\raw_pull_event.mp3.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\raw\\pull_event.mp3"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_bottom.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_list_in_vp.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_list_in_vp.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_default_ptr_flip.png.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header_horizontal.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_list.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_list.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_horizontalscrollview.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_horizontalscrollview.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_horizontalscrollview.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_horizontalscrollview.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_expandable_list.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_expandable_list.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_need_this_for_maven.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\pullToRefreshListFragment\\build\\intermediates\\bundles\\debug\\res\\layout\\need_this_for_maven.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_default_ptr_rotate.png.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_default_ptr_rotate.png.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_bg_top.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_default_ptr_flip.png.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_list_in_vp.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_list_in_vp.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header_vertical.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\raw_refreshing_sound.mp3.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\raw\\refreshing_sound.mp3"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_scrollview.xml.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_scrollview.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_default_ptr_rotate.png.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptr_webview2.xml.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\src\\main\\res\\layout\\activity_ptr_webview2.xml"
+    },
+    {
+        "merged": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\raw_pull_event.mp3.flat",
+        "source": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\src\\main\\res\\raw\\pull_event.mp3"
+    },
+    {
+        "merged": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_indicator_arrow.png.flat",
+        "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    }
+]

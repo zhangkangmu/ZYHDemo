@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--高度固定-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="160dp">
+
+    <!--图片的摆放位置-->
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </android.support.v4.view.ViewPager>
+
+    <!--文字和点儿要放在一个LinearLayout中-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <!--文字表述-->
+        <TextView
+            android:id="@+id/tv_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="张宇洪是帅哥"
+            android:textColor="@android:color/white"
+            android:textSize="15dp" />
+
+        <!--最下面的点布局-->
+        <LinearLayout
+            android:id="@+id/ll_point_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="5dp">
+        </LinearLayout>
+    </LinearLayout>
+
+    </RelativeLayout>
+</LinearLayout>

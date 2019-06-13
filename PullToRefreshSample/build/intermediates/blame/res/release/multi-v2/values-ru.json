@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ru\\values-ru.xml",
+            "map": [
+                {
+                    "source": "G:\\Code\\android\\ZYHDemo\\library\\build\\intermediates\\bundles\\release\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,135,206",
+                        "endColumns": "79,70,83",
+                        "endOffsets": "130,201,285"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "G:\\Code\\android\\Demo\\Demo\\PullToRefreshSample\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ru\\values-ru.xml",
+            "map": [
+                {
+                    "source": "G:\\Code\\android\\Demo\\Demo\\library\\build\\intermediates\\bundles\\release\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,135,206",
+                        "endColumns": "79,70,83",
+                        "endOffsets": "130,201,285"
+                    }
+                }
+            ]
+        }
+    ]
+}

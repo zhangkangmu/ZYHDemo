@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Jun 13 21:21:27 CST 2019
+0.baseType=DIRECTORY
+0.base=G\:\\Code\\android\\ZYHDemo\\PullToRefreshSample\\build\\intermediates\\assets\\debug
+0.path=ptr_webview2_sample.html
+0.set=ASSET
+count=1
